@@ -1,3 +1,3 @@
 echo "hello jenkin"
-echo "hello world"
+ech "hello world"
 whoami
